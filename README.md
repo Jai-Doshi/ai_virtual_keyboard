@@ -15,6 +15,4 @@
 •	Provides a advanced and easy-to-use way for people to type.
 
 
-[![AI Virtual Keyboard](assets/banner.jpg)](assets/Demo.mp4 "Demo")
-
-[![](https://markdown-videos.vercel.app/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+https://github.com/Jai-Doshi/ai_virtual_keyboard/assets/62877713/20246dea-77cd-4ba1-ac7f-1c3f6c3fe48f
