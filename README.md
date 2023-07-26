@@ -1,6 +1,6 @@
 # AI Virtual Keyboard
 
-![AI Virtual Keyboard](assets/banner.jpg)
+![AI Virtual Keyboard Banner](https://github.com/Jai-Doshi/ai_virtual_keyboard/assets/62877713/f2f82799-bfea-408a-99a0-0431d2993c32)
 
 •	Created a computer program that uses technology to see and understand hand movements, and used a special library to help with this.
 
