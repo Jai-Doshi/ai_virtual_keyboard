@@ -1,1 +1,3 @@
-# ai_virtual_keyboard
+AI Virtual Keyboard
+
+![My Image](banner.jpg)
