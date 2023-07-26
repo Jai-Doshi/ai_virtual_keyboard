@@ -1,6 +1,6 @@
 # AI Virtual Keyboard
 
-![AI Virtual Keyboard](banner.jpg)
+![AI Virtual Keyboard](assets/banner.jpg)
 
 •	Created a computer program that uses technology to see and understand hand movements, and used a special library to help with this.
 
@@ -15,4 +15,4 @@
 •	Provides a advanced and easy-to-use way for people to type.
 
 
-![AI Virtual Keyboard](Virtual Keyboard (CV Project0.mp4)
+[![AI Virtual Keyboard](assets/banner.jpg)](assets/Demo.mp4 "Demo")
